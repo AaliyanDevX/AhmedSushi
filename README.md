@@ -39,30 +39,15 @@ To run this project locally, follow these steps:
 
     Install the dependencies:
 
-cd AhmedSushi
-npm install
+-cd AhmedSushi
+-npm install
 
-Run the project:
+-Run the project:
 
     npm run dev
 
     Open the browser and visit http://localhost:3000 to view the project.
 
-Preview
-
-Here’s a preview of the project: Sushi Website Preview
-Conclusion
-
-This project was a fun and educational experience. It helped me improve my front-end development skills while experimenting with animations, interactive features, and modern web tools. I'm looking forward to creating more projects in the future!
-Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make improvements, and submit pull requests. All contributions are welcome!
-License
-
-This project is open-source and available under the MIT License.
-
-
----
 
 ### Key Improvements:
 - **Headings**: Consistent use of `#` for main and subheadings, making it easy to navigate.
