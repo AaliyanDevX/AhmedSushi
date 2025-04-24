@@ -54,6 +54,6 @@ To run this project locally, follow these steps:
 - **Technologies Used**: Detailed explanation of the tools/technologies.
 - **Features**: Bullet points highlight key features of the project.
 - **Installation and Setup**: Clear step-by-step instructions to run the project locally.
-- **Preview**: ahmed-sushi-aaliyandevx.vercel.app
+- **Preview**: ### Preview: [AhmedSushi on Vercel](https://ahmed-sushi-aaliyandevx.vercel.app)
 - **Conclusion**: Reflects on the learning experience and future aspirations.
 - **Contributing**: Encourages contributions to the project with simple instructions.
