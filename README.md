@@ -68,6 +68,6 @@ This project was a fun and educational experience where I learned how to build a
 Contributing
 
 If you would like to contribute to this project, feel free to fork the repository and make improvements. Pull requests are welcome!
-License
 
+License
 This project is open-source and available under the MIT License.
