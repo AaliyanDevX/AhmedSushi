@@ -57,7 +57,3 @@ To run this project locally, follow these steps:
 - **Preview**: Placeholder for a live demo link.
 - **Conclusion**: Reflects on the learning experience and future aspirations.
 - **Contributing**: Encourages contributions to the project with simple instructions.
-- **License**: Included the open-source license section for clarity.
-
-This format should be clean and easy to follow for any reader or contributor. Feel free to replace placeholders like the "Preview" link with actual URLs when applicable.
-
