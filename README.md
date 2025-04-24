@@ -49,11 +49,5 @@ To run this project locally, follow these steps:
     Open the browser and visit http://localhost:3000 to view the project.
 
 
-### Key Improvements:
-- **Headings**: Consistent use of `#` for main and subheadings, making it easy to navigate.
-- **Technologies Used**: Detailed explanation of the tools/technologies.
-- **Features**: Bullet points highlight key features of the project.
-- **Installation and Setup**: Clear step-by-step instructions to run the project locally.
-- **Preview**: ### Preview: [AhmedSushi on Vercel](https://ahmed-sushi-aaliyandevx.vercel.app)
-- **Conclusion**: Reflects on the learning experience and future aspirations.
-- **Contributing**: Encourages contributions to the project with simple instructions.
+##- **Preview** 
+[AhmedSushi on Vercel](https://ahmed-sushi-aaliyandevx.vercel.app)
