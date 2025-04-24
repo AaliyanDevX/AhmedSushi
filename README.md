@@ -61,6 +61,7 @@ npm run dev
 Preview
 
 Here’s a preview of the project: Sushi Website
+
 Conclusion
 
 This project was a fun and educational experience where I learned how to build and deploy a fully functional website from scratch. It also allowed me to experiment with animations, interactive features, and modern development tools. I look forward to creating more projects and enhancing my development skills!
