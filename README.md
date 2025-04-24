@@ -47,14 +47,14 @@ To run the project locally, follow these steps:
 
 git clone https://github.com/AaliyanDevX/AhmedSushi.git
 
-Install the dependencies:
+    Install the dependencies:
 
 cd AhmedSushi
 npm install
 
-Run the project:
+    Run the project:
 
-    npm run dev
+npm run dev
 
     Visit the website in your browser at http://localhost:3000.
 
